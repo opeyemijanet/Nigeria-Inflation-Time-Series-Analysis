@@ -17,3 +17,6 @@ Key Focus
 - Volatility Dynamics
 - Urban vs Rural Inflation Gap
 - Structural Dispersion Across States
+
+- 🔗 Interactive Dashboard:
+https://lookerstudio.google.com/reporting/123766d3-e420-4e2e-9410-1220c7dae32e
